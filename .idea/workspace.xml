@@ -1,21 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0f7a97b-0aa0-4945-83cd-34a6543cccb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    <list default="true" id="e0f7a97b-0aa0-4945-83cd-34a6543cccb4" name="Changes" comment="add comment">
+      <change afterPath="$PROJECT_DIR$/src/pr2/Author/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr2/Author/TestAuthor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr2/Ball/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr2/Ball/BallTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr2/Book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr2/Book/BookCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr2/Book/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr2/Circle/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr2/Circle/TestCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr2/HowMany/HowMany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr2/Point/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr2/Point/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr2/Point/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr2/Shop/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr2/Shop/ShopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr2/dog/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr2/dog/DogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr2/poker/Poker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr2/poker/PokerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr2/string/String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr3/Mass/Mass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr3/Shell/ShellClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr3/Vvod/Vvod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr3/format/Convertor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pr3/segment/Segment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HWjava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="branch2" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EjCMMz4h6en0UzEMFn5dqohyED" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,13 +65,21 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sonas/IdeaProjects/Practice-Java&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Factorial">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sonas\IdeaProjects\Practice-Java\src\pr1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Cmdargs">
     <configuration name="Cmdargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pr1.Cmdargs" />
-      <module name="untitled" />
+      <module name="HWjava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pr1.*" />
@@ -45,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pr1.Factorial" />
-      <module name="untitled" />
+    <configuration name="DogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pr2.dog.DogTest" />
+      <module name="HWjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pr1.*" />
+          <option name="PATTERN" value="pr2.dog.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,10 +103,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShellClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pr3.Shell.ShellClasses" />
+      <module name="HWjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pr3.Shell.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pr3.Stak" />
+      <module name="HWjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pr3.Mass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vvod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pr3.Vvod.Vvod" />
+      <module name="HWjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pr3.Vvod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Cmdargs" />
+      <item itemvalue="Application.ShellClasses" />
+      <item itemvalue="Application.Vvod" />
+      <item itemvalue="Application.Stak" />
+      <item itemvalue="Application.DogTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.Cmdargs" />
+        <item itemvalue="Application.Vvod" />
+        <item itemvalue="Application.ShellClasses" />
+        <item itemvalue="Application.Stak" />
+        <item itemvalue="Application.DogTest" />
       </list>
     </recent_temporary>
   </component>
@@ -74,7 +168,84 @@
       <option name="presentableId" value="Default" />
       <updated>1663099561576</updated>
       <workItem from="1663099563171" duration="323000" />
+      <workItem from="1663525782778" duration="1728000" />
+      <workItem from="1663527830518" duration="651000" />
+      <workItem from="1663574611855" duration="1237000" />
+      <workItem from="1663575984164" duration="5877000" />
+      <workItem from="1663583565583" duration="23000" />
+      <workItem from="1663583773412" duration="3934000" />
+      <workItem from="1663602472269" duration="5000" />
+      <workItem from="1663712317588" duration="502000" />
+      <workItem from="1663863725493" duration="42000" />
+      <workItem from="1664012475971" duration="2620000" />
+      <workItem from="1664299679718" duration="663000" />
+      <workItem from="1664303321466" duration="381000" />
+      <workItem from="1664313881671" duration="704000" />
+      <workItem from="1664314752993" duration="39000" />
+      <workItem from="1664314847156" duration="774000" />
+      <workItem from="1664317574783" duration="696000" />
+      <workItem from="1664322820102" duration="2242000" />
+      <workItem from="1664327825903" duration="1461000" />
+      <workItem from="1664329426801" duration="40000" />
+      <workItem from="1664329475424" duration="29000" />
+      <workItem from="1664329528524" duration="49000" />
+      <workItem from="1664329596532" duration="14000" />
+      <workItem from="1664329631443" duration="14000" />
+      <workItem from="1664329783517" duration="157000" />
+      <workItem from="1664329965481" duration="56000" />
+      <workItem from="1664330097156" duration="68000" />
+      <workItem from="1664330188124" duration="12000" />
+      <workItem from="1664330220073" duration="109000" />
+      <workItem from="1664330465645" duration="47000" />
+      <workItem from="1664330533653" duration="17000" />
+      <workItem from="1664330637276" duration="109000" />
+      <workItem from="1664330775994" duration="112000" />
+      <workItem from="1664330906663" duration="21000" />
+      <workItem from="1664330961567" duration="90000" />
+      <workItem from="1664349989247" duration="3256000" />
+      <workItem from="1664729278314" duration="399000" />
+      <workItem from="1664956826382" duration="363000" />
+      <workItem from="1664957657472" duration="1684000" />
+      <workItem from="1664960696361" duration="134000" />
+      <workItem from="1665484948323" duration="2370000" />
+      <workItem from="1666119755022" duration="595000" />
+      <workItem from="1666433051535" duration="4587000" />
+      <workItem from="1667211462518" duration="773000" />
+      <workItem from="1667212328264" duration="6447000" />
+      <workItem from="1667370425091" duration="5713000" />
+      <workItem from="1667416602285" duration="2000" />
+      <workItem from="1669126841573" duration="654000" />
+      <workItem from="1671576205220" duration="1147000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1663525941654</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663525941654</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1663526150882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663526150882</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit with another branch">
+      <created>1663526443561</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663526443561</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add comment">
+      <created>1663527413097</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663527413097</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,5 +261,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="second commit" />
+    <MESSAGE value="commit with another branch" />
+    <MESSAGE value="add comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="add comment" />
   </component>
 </project>
